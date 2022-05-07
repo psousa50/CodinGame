@@ -1,4 +1,3 @@
-from copy import deepcopy
 from dataclasses import dataclass
 from dis import dis
 import sys
